@@ -8,7 +8,7 @@
   "workers_dev": true,
   "preview_urls": false,
   "vars": {
-    "SITE_PUBLIC": "false"
+    "SITE_PUBLIC": "true"
   },
   "d1_databases": [
     {
