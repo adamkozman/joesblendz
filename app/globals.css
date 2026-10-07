@@ -20,3 +20,5 @@
 
 
 .owner-login{max-width:380px;margin:25px auto;text-align:left}
+
+.site-credit{margin:0;padding:16px 24px 24px;text-align:center;color:var(--muted);line-height:1.5}.site-credit small{font-size:11px}
