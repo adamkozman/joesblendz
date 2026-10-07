@@ -14,7 +14,7 @@
     {
       "binding": "DB",
       "database_name": "joesblendz-bookings",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "30ffbe9c-949a-4e79-81fa-8955713df933",
       "migrations_dir": "drizzle"
     }
   ]
