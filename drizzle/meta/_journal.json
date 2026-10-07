@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791304304806,
+      "tag": "0000_aberrant_dakota_north",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791304600879,
+      "tag": "0001_loose_senator_kelly",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791330013484,
+      "tag": "0002_noisy_terrax",
+      "breakpoints": true
+    }
+  ]
+}

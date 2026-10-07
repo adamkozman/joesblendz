@@ -1,0 +1,4 @@
+# Copy to .dev.vars only for local testing; never commit your actual password.
+ADMIN_PASSWORD=REPLACE_WITH_GENERATED_64_CHARACTER_PASSWORD
+SITE_PUBLIC=true
+
